@@ -753,7 +753,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!114 &745221818
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2225,8 +2225,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   targetPrefab: {fileID: 3003643244630412945, guid: 90195b1a406c52146ad2ded4f9ea034d, type: 3}
   spawnInterval: 3
-  spawnAreaMin: {x: -2, y: 1, z: 3}
-  spawnAreaMax: {x: 3, y: 4, z: 3}
+  spawnAreaMin: {x: -2, y: 1, z: 6}
+  spawnAreaMax: {x: 3, y: 4, z: 6}
 --- !u!4 &1939653455
 Transform:
   m_ObjectHideFlags: 0
