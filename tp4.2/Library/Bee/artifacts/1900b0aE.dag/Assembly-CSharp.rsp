@@ -402,6 +402,8 @@
 "Assets/hideCanva.cs"
 "Assets/InputFieldSync.cs"
 "Assets/ShootBullet.cs"
+"Assets/Target.cs"
+"Assets/TargetSpawner.cs"
 -langversion:9.0
 /deterministic
 /optimize+

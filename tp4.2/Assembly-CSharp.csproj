@@ -62,9 +62,11 @@
   <ItemGroup>
     <Compile Include="Assets\InputFieldSync.cs" />
     <Compile Include="Assets\Black Whale Studio\VR Keyboard XRI\Scripts\KeyboardManager.cs" />
+    <Compile Include="Assets\Target.cs" />
     <Compile Include="Assets\Black Whale Studio\VR Keyboard XRI\Scripts\Key.cs" />
     <Compile Include="Assets\AppearTable.cs" />
     <Compile Include="Assets\AppearGun.cs" />
+    <Compile Include="Assets\TargetSpawner.cs" />
     <Compile Include="Assets\Black Whale Studio\VR Keyboard XRI\Scripts\KeyChannel.cs" />
     <Compile Include="Assets\Black Whale Studio\VR Keyboard XRI\Scripts\LetterKey.cs" />
     <Compile Include="Assets\ShootBullet.cs" />
